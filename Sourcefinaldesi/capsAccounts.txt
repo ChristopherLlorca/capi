@@ -1,0 +1,7 @@
+role: admin
+email: admins
+pass: pass
+
+role: staff
+email: staffs
+pass: pass
